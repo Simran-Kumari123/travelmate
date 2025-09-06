@@ -1,17 +1,10 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/Simran-Kumari123/travelmate)
-  ![GitHub stars](https://img.shields.io/github/stars/Simran-Kumari123/travelmate?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/Simran-Kumari123/travelmate?style=social)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/9ts7JnruWg4?style=social)](https://youtu.be/9ts7JnruWg4)
-
-  <br />
-  <br />
 
   <h2 align="center">🌍 TravelMate - Tourist Website</h2>
 
-  TravelMate is a fully responsive **tourist website** <br />
-  Responsive for all devices, built using React & Tailwind CSS
+TravelMate is a fully responsive **tourist website** <br />
+Responsive for all devices, built using **React and Tailwind CSS**
 
   <a href="https://simran-kumari123.github.io/travelmate/"><strong>➥ Live Demo</strong></a>
 
