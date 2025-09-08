@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tourest/static/css/main.e1df5f9d.css",
+    "main.js": "/tourest/static/js/main.d9889819.js",
+    "index.html": "/tourest/index.html",
+    "main.e1df5f9d.css.map": "/tourest/static/css/main.e1df5f9d.css.map",
+    "main.d9889819.js.map": "/tourest/static/js/main.d9889819.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1df5f9d.css",
+    "static/js/main.d9889819.js"
+  ]
+}
